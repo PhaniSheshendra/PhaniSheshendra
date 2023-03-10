@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhaniSheshendra
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently working as a full stack developer
 - 💞️ I’m looking to collaborate on fullstac projects
 - 📫 How to reach me phanisheshendra@gmail.com
 
